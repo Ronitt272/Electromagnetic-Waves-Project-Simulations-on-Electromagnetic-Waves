@@ -1,5 +1,5 @@
 # Electromagnetic-Waves-Project-Simulations-on-Electromagnetic-Waves
--This project mainly involved three aspects: 
+This project mainly involved three aspects: 
 1. 3D Model of EM Waves.
 2. 3D Animation of EM Waves.
 3. 3D Models for the Reflection of EM Waves at Normal Incidence. 
