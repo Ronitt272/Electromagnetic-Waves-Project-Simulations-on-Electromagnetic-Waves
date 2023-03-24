@@ -34,6 +34,75 @@ Based on the value of their conductivity, permittivity and permeability, differe
 
 <img width="448" alt="image" src="https://user-images.githubusercontent.com/68660836/227628351-5722f774-93f2-40b7-886d-8bde2a00811b.png">
 
+# Reflection of EM Waves at normal incidence
+
+![image](https://user-images.githubusercontent.com/68660836/227628616-b2e15d6b-dd0d-4678-bcbc-1eec96bc56bc.png)
+
+Mathematically, we see that: 
+
+![image](https://user-images.githubusercontent.com/68660836/227628714-490b9046-f0b8-4863-a0ac-f59aacf38c1a.png)
+
+![image](https://user-images.githubusercontent.com/68660836/227628758-740303bc-e66b-4477-b74a-581f9f199a0b.png)
+
+# 2D Model of EM Wave for Free Space
+
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/68660836/227629156-45b3aa7e-80b3-46ca-b63c-23860bf8a31f.png">
+
+# 3D Model of EM Wave for Free Space
+
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/68660836/227629234-d88153a0-8d17-4943-8d31-f454e3ea5f25.png">
+
+# 3D Animation of EM Wave for Free Space
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/68660836/227629591-eed686d4-278d-4ece-8330-9834613c558a.png">
+
+# 2D Model of EM Wave for Aluminium (Good Conductor)
+
+<img width="699" alt="image" src="https://user-images.githubusercontent.com/68660836/227629832-e125c915-de2d-4f3c-a934-6e2636127234.png">
+
+# 3D Model of EM Wave for Aluminium (Good Conductor)
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/68660836/227629904-1102fa5d-43ac-476b-83d8-b029486289d4.png">
+
+# 3D Animation of EM Wave for Aluminium (Good Conductor)
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/68660836/227629972-df10342c-57c3-40c4-8a55-e7d9ae6e62da.png">
+
+# 2D Model of EM Wave for Glycerin (Lossy Dielectric)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/68660836/227633245-94547269-f657-4cb7-aff5-9006a644af2b.png">
+
+# 3D Model of EM Wave for Glycerin (Lossy Dielectric)
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/68660836/227633330-cd51ef99-6a07-4e4e-b324-1758b45aedc9.png">
+
+# 3D Animation of EM Wave for Glycerin (Lossy Dielectric)
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/68660836/227633425-8bdbda82-c89d-4e39-ae07-c050c629ffde.png">
+
+# 2D Model of EM Wave for Polyester (Lossless Dielectric)
+
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/68660836/227634284-4dc1b424-6c5f-4d2f-a87a-3698b144f1c6.png">
+
+# 3D Model of EM Wave for Polyester (Lossless Dielectric)
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/68660836/227634356-b5172800-1946-4de1-86bb-a4b3d9fa7f7c.png">
+
+# 3D Animation of EM Wave for Polyester (Lossless Dielectric)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/68660836/227634424-a089150b-8953-4a47-8e78-2ae9a87cf856.png">
+
+# Reflection of EM Wave at Normal Incidence 
+
+
+
+
+
+
+
+
+
+
 
 
 
