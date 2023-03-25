@@ -94,6 +94,21 @@ Mathematically, we see that:
 
 # Reflection of EM Wave at Normal Incidence 
 
+# Incident wave
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/68660836/227698073-be40771a-f35c-4ca3-b942-49a89bce7a39.png">
+
+# Transmitted wave
+
+<img width="704" alt="image" src="https://user-images.githubusercontent.com/68660836/227698094-2a30125f-ad8b-451d-9a61-710f5b5714f4.png">
+
+# Reflected wave
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/68660836/227698124-21c404a8-59f0-4650-82eb-7568a3b2da9b.png">
+
+
+
+
 
 
 
