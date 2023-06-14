@@ -22,12 +22,6 @@ The equations that are finally derived out of the Maxwell’s equations as shown
 
 The wave equations basically define the behaviour of the electric and the magnetic fields of an electromagnetic wave in an arbitrary medium. It also provides a relationship between the electric and magnetic fields of an electromagnetic wave in any arbitrary medium.
 
-The mathematical derivation is shown below:
-
-![image](https://user-images.githubusercontent.com/68660836/227627802-3dac901a-66b1-4af2-923e-234b72cbbabc.png)
-
-![image](https://user-images.githubusercontent.com/68660836/227627845-2f2b8db2-7ff3-4d17-8ce5-07864cb47bd0.png)
-
 # Classification of Media 
 
 Based on the value of their conductivity, permittivity and permeability, different media can be classified broadly into four categories, in context to electromagnetic waves. These four categories are: Free Space, Lossless Dielectric, Lossy Dielectric and Good Conductors.
