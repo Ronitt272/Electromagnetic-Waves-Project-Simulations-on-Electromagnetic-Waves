@@ -32,12 +32,6 @@ Based on the value of their conductivity, permittivity and permeability, differe
 
 ![image](https://user-images.githubusercontent.com/68660836/227628616-b2e15d6b-dd0d-4678-bcbc-1eec96bc56bc.png)
 
-Mathematically, we see that: 
-
-![image](https://user-images.githubusercontent.com/68660836/227628714-490b9046-f0b8-4863-a0ac-f59aacf38c1a.png)
-
-![image](https://user-images.githubusercontent.com/68660836/227628758-740303bc-e66b-4477-b74a-581f9f199a0b.png)
-
 # 2D Model of EM Wave in Free Space
 
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/68660836/227629156-45b3aa7e-80b3-46ca-b63c-23860bf8a31f.png">
